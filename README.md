@@ -1,11 +1,11 @@
 # calto-cs
-calto is a web calculator created by weberg studios
+calto is a web calculator created by webcreative
 but calto-cs is a c# version of calto web.
 
 version - v1
 
 ## download
-https://webergstudios.github.io/calto-cs/calculator.cs
+https://webergcreative.github.io/calto-cs/calculator.cs
 
 ### web link
-https://webergstudios.github.io/calto-cs
+https://webcreative.github.io/calto-cs
