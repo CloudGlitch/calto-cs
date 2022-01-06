@@ -7,6 +7,7 @@ namespace ProjectCs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("calto-cs version 2. for previous version pls check versions on github");
             Console.Write("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
